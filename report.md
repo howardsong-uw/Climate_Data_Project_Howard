@@ -1,5 +1,5 @@
 # Introduction  
-Madison, Wisconsin, experiences dramatic seasonal swings in both temperature and precipitation. Winters are often below freezing, and summers can be both hot and humid. Although the city lies at a latitude similar to my hometown and is equally far inland, the local climate here feels markedly different.  
+Madison, Wisconsin, lies well inland and experiences all four seasons distinctly. Winters regularly dip below freezing, while summers can be quite warm and humid. Given its latitude, one might expect it to resemble other inland cities, yet the felt climate here is unique. To understand these patterns, I collected monthly temperature (TAVG) data from three stations and precipitation (PRCP) data from four stations, then applied seasonal decomposition to uncover long-term trends, annual cycles, and anomalies. 
 
 # Motivation  
 I moved to Madison one year ago and was struck by how much colder its winters felt and how much wetter its summers were compared to home. Curious to quantify these impressions, I gathered monthly data for average temperature (TAVG) and total precipitation (PRCP) from 2014 through 2024. By decomposing each series into trend, seasonal, and residual components, I aimed to uncover the underlying patterns that define Madison’s climate.  
