@@ -38,7 +38,6 @@ monthly_avg_temp = (
 )
 result = seasonal_decompose(monthly_avg_temp, model='additive', period=12, extrapolate_trend='freq')
 
-# 4. 绘制综合时序分解图
 fig = result.plot()
 fig.set_size_inches(10, 8)
 plt.suptitle('Madison Representative Monthly Mean Temperature (Three Stations) Time Series Decomposition (2014–2024)',
