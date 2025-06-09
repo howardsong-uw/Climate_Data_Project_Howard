@@ -28,5 +28,5 @@ By applying seasonal decomposition to station-averaged temperature and precipita
 
 1. Peel, M. C., Finlayson, B. L., and McMahon, T. A., “Updated world map of the Köppen–Geiger climate classification,” _Hydrology and Earth System Sciences_, vol. 11, pp. 1633–1644, 2007.  
 
-My project code is hosted at GitHub：  
+**My project code is hosted at GitHub**：  
 [howardsong-uw/Climate-Data-Project](https://github.com/howardsong-uw/Climate-Data-Project)
